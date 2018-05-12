@@ -1,0 +1,28 @@
+_repo: Un-coeur-simple_26812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26812'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Women household employees -- France -- Fiction'
+title: Un coeur simple
+url: http://www.gutenberg.org/ebooks/26812
