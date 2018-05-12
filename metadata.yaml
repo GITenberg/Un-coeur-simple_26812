@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/574
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26812#Un-coeur-simple
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-10-07'
 gutenberg_type: Text
